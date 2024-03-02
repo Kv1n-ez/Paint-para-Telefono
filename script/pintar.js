@@ -1,10 +1,10 @@
 var pantalla = document.querySelector('canvas');
         var pincel = pantalla.getContext('2d');
 
-        var colores = ["white","black","Yellow",
-                        "blue","red","orange",
-                        "green","skyblue","darkgreen",
-                        "grey"];
+        var colores = ["black", "red", "Yellow",
+                        "blue","orange",
+                        "green", "limegreen","brown","turquoise",
+                        "pink", "beige", "purple", "silver"];
         var tamahoCuadrado = 30;
         var j = 0;
 
